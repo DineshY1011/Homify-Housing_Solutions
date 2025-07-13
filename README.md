@@ -178,24 +178,4 @@ Session handling is managed through `check_session.php` and `logout.php`. Ensure
 2. Configure virtual hosts if needed
 3. Enable error reporting for development
 
-### Production Deployment
-1. Use a reliable web hosting service
-2. Configure SSL certificates for HTTPS
-3. Set up proper file permissions
-4. Disable error reporting in production
-5. Use environment variables for sensitive data
-
-## 📞 Support
-
-For technical support or questions about the Homify platform:
-- Check the documentation in each module directory
-- Review the SQL files for database structure
-- Contact the development team for assistance
-
-## 📄 License
-
-This project is proprietary software. All rights reserved.
-
----
-
 **Homify** - Making housing services accessible and convenient for everyone. 
